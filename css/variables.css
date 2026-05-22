@@ -1,0 +1,17 @@
+/* =========================================================================
+   VARIABLES.CSS
+   Variables globales del proyecto (paleta de colores y tokens de diseño)
+   ========================================================================= */
+
+:root {
+    --pink-primary: #FF6B9D;
+    --pink-secondary: #FFB6C1;
+    --pink-light: #FFF0F5;
+    --pink-dark: #C44569;
+    --pink-accent: #E91E8C;
+    --white: #FFFFFF;
+    --gray-light: #F8F9FA;
+    --text-dark: #2C3E50;
+    --text-gray: #6C757D;
+    --gold: #D4A574;
+}
